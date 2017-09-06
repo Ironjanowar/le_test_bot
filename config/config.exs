@@ -3,4 +3,4 @@
 use Mix.Config
 
 config :le_test_bot,
-  token: "376323488:AAHcWtIJaoLDKT5tSXfUYF-Y1yD87Z5rB8s"
+  token: "TOKEN"
